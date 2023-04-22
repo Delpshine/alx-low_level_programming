@@ -1,10 +1,9 @@
 #include <stdio>
 
 /**
- * main - Entry 
- *
- *
- *Return: Always 0
+ * main - Prints the size of various types based 
+ * on the computer it is compiled and run on..
+ *Return: 0 (success)
  */
 int main(void)
 {
