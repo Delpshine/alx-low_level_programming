@@ -2,10 +2,10 @@
 
 /**
  * main - Entry
- * Description: print_alphabet - print all alphabet in lowercase
+ * print_alphabet - Print all alphabet in lowercase
  * Return: Always (0)
  */
-void print_alphabet(void)
+int main(void)
 {
 	char letter;
 
