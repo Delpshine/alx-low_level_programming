@@ -1,6 +1,8 @@
 #include "main.h"
+
 /**
- * main - Entry
+ * main - prints _putchar on a new line
+ *
  * Description - Prints _putchar to stdout
  * Return: Always (0)
  */
@@ -15,5 +17,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
